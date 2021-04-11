@@ -30,15 +30,14 @@ $ npm install
 `ethereum/web3.js`の`ENDPOINTS`を指定します。
 
 
-### コンパイル、デプロイ
+### コンパイル
 コンパイルします。
 ```
 $ node compile.js
 ```
 コンパイルが完了すると、`ethereum/build`ディレクトリが作成されます。
 
-<br>
-
+### デプロイ
 デプロイします。
 ```
 $ node deploy.js
