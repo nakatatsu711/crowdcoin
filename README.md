@@ -1,5 +1,5 @@
 ## 概要
-[Kickstarter](https://www.kickstarter.com/?lang=ja)に似たシステムをEthereum上で構築するプログラムです。  
+[Kickstarter](https://www.kickstarter.com/?lang=ja)に似たシステムをEthereum上に構築するプログラムです。  
 dApps開発の勉強用です。
 
 <br>
