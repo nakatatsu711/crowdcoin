@@ -6,7 +6,7 @@ dApps開発の勉強用です。
 
 [Ethereum and Solidity: The Complete Developer’s Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)で紹介されています。
 
-ソースコードはGitHubで公開されています。　　
+オリジナルのソースコードはGitHubで公開されています。　　
 https://github.com/StephenGrider/EthereumCasts/tree/master/kickstart
 
 上記のプログラムを少し修正しています。
