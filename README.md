@@ -4,8 +4,10 @@ dApps開発の勉強用です。
 
 <br>
 
-[Ethereum and Solidity: The Complete Developer’s Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)で紹介されています。  
-[GitHubはこちら](https://github.com/StephenGrider/EthereumCasts/tree/master/kickstart)
+[Ethereum and Solidity: The Complete Developer’s Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)で紹介されています。
+
+ソースコードはGitHubで公開されています。　　
+https://github.com/StephenGrider/EthereumCasts/tree/master/kickstart
 
 上記のプログラムを少し修正しています。
 
